@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\Int32ToIPv4\bin\Debug\Int32ToIPv4.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\Int32ToIPv4\bin\Debug\Int32ToIPv4.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\Int32ToIPv4\bin\Debug\Int32ToIPv4.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\Int32ToIPv4\obj\Debug\Int32ToIPv4.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\Int32ToIPv4\obj\Debug\Int32ToIPv4.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\Int32ToIPv4\obj\Debug\Int32ToIPv4.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\Int32ToIPv4\obj\Debug\Int32ToIPv4.pdb

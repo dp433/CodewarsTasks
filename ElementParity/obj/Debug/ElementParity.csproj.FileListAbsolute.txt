@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\ElementParity\bin\Debug\ElementParity.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\ElementParity\bin\Debug\ElementParity.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\ElementParity\bin\Debug\ElementParity.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\ElementParity\obj\Debug\ElementParity.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\ElementParity\obj\Debug\ElementParity.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\ElementParity\obj\Debug\ElementParity.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\ElementParity\obj\Debug\ElementParity.pdb

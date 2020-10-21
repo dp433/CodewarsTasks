@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\LargestNumber\bin\Debug\LargestNumber.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\LargestNumber\bin\Debug\LargestNumber.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\LargestNumber\bin\Debug\LargestNumber.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\LargestNumber\obj\Debug\LargestNumber.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\LargestNumber\obj\Debug\LargestNumber.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\LargestNumber\obj\Debug\LargestNumber.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\LargestNumber\obj\Debug\LargestNumber.csprojAssemblyReference.cache

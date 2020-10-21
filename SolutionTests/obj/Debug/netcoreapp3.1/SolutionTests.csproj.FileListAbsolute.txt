@@ -1,0 +1,4 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\SolutionTests\obj\Debug\netcoreapp3.1\SolutionTests.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\SolutionTests\obj\Debug\netcoreapp3.1\SolutionTests.AssemblyInfoInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\SolutionTests\obj\Debug\netcoreapp3.1\SolutionTests.AssemblyInfo.cs
+C:\Users\Dmitry\source\repos\CodewarsTasks\SolutionTests\obj\Debug\netcoreapp3.1\SolutionTests.csproj.CoreCompileInputs.cache

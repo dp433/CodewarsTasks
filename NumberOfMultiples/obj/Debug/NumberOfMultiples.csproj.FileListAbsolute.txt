@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\NumberOfMultiples\obj\Debug\NumberOfMultiples.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\NumberOfMultiples\bin\Debug\NumberOfMultiples.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\NumberOfMultiples\bin\Debug\NumberOfMultiples.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\NumberOfMultiples\bin\Debug\NumberOfMultiples.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\NumberOfMultiples\obj\Debug\NumberOfMultiples.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\NumberOfMultiples\obj\Debug\NumberOfMultiples.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\NumberOfMultiples\obj\Debug\NumberOfMultiples.csprojAssemblyReference.cache

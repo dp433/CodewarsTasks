@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\InterviewQuestion\obj\Debug\InterviewQuestion.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\InterviewQuestion\obj\Debug\InterviewQuestion.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\InterviewQuestion\bin\Debug\InterviewQuestion.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\InterviewQuestion\bin\Debug\InterviewQuestion.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\InterviewQuestion\bin\Debug\InterviewQuestion.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\InterviewQuestion\obj\Debug\InterviewQuestion.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\InterviewQuestion\obj\Debug\InterviewQuestion.pdb

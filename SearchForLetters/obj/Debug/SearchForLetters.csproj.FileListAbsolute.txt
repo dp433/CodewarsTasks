@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\SearchForLetters\bin\Debug\SearchForLetters.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\SearchForLetters\bin\Debug\SearchForLetters.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\SearchForLetters\bin\Debug\SearchForLetters.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\SearchForLetters\obj\Debug\SearchForLetters.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\SearchForLetters\obj\Debug\SearchForLetters.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\SearchForLetters\obj\Debug\SearchForLetters.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\SearchForLetters\obj\Debug\SearchForLetters.csprojAssemblyReference.cache

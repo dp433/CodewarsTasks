@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\NextBiggerNumber\bin\Debug\NextBiggerNumber.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\NextBiggerNumber\bin\Debug\NextBiggerNumber.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\NextBiggerNumber\bin\Debug\NextBiggerNumber.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\NextBiggerNumber\obj\Debug\NextBiggerNumber.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\NextBiggerNumber\obj\Debug\NextBiggerNumber.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\NextBiggerNumber\obj\Debug\NextBiggerNumber.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\NextBiggerNumber\obj\Debug\NextBiggerNumber.pdb

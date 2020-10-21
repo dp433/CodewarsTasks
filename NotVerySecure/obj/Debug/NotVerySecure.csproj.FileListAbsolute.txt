@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\NotVerySecure\bin\Debug\NotVerySecure.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\NotVerySecure\bin\Debug\NotVerySecure.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\NotVerySecure\bin\Debug\NotVerySecure.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\NotVerySecure\obj\Debug\NotVerySecure.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\NotVerySecure\obj\Debug\NotVerySecure.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\NotVerySecure\obj\Debug\NotVerySecure.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\NotVerySecure\obj\Debug\NotVerySecure.pdb

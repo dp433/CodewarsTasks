@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\MostFrequentWeekdays\bin\Debug\MostFrequentWeekdays.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\MostFrequentWeekdays\bin\Debug\MostFrequentWeekdays.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\MostFrequentWeekdays\bin\Debug\MostFrequentWeekdays.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\MostFrequentWeekdays\obj\Debug\MostFrequentWeekdays.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\MostFrequentWeekdays\obj\Debug\MostFrequentWeekdays.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\MostFrequentWeekdays\obj\Debug\MostFrequentWeekdays.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\MostFrequentWeekdays\obj\Debug\MostFrequentWeekdays.pdb

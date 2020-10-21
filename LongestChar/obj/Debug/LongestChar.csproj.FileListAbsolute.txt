@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\LongestChar\bin\Debug\LongestChar.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\LongestChar\bin\Debug\LongestChar.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\LongestChar\bin\Debug\LongestChar.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\LongestChar\obj\Debug\LongestChar.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\LongestChar\obj\Debug\LongestChar.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\LongestChar\obj\Debug\LongestChar.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\LongestChar\obj\Debug\LongestChar.pdb

@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\RomanNumeralsDecoder\bin\Debug\RomanNumeralsDecoder.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\RomanNumeralsDecoder\bin\Debug\RomanNumeralsDecoder.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\RomanNumeralsDecoder\bin\Debug\RomanNumeralsDecoder.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\RomanNumeralsDecoder\obj\Debug\RomanNumeralsDecoder.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\RomanNumeralsDecoder\obj\Debug\RomanNumeralsDecoder.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\RomanNumeralsDecoder\obj\Debug\RomanNumeralsDecoder.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\RomanNumeralsDecoder\obj\Debug\RomanNumeralsDecoder.pdb

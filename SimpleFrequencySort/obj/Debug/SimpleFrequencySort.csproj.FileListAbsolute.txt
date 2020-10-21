@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\SimpleFrequencySort\bin\Debug\SimpleFrequencySort.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\SimpleFrequencySort\bin\Debug\SimpleFrequencySort.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\SimpleFrequencySort\bin\Debug\SimpleFrequencySort.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\SimpleFrequencySort\obj\Debug\SimpleFrequencySort.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\SimpleFrequencySort\obj\Debug\SimpleFrequencySort.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\SimpleFrequencySort\obj\Debug\SimpleFrequencySort.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\SimpleFrequencySort\obj\Debug\SimpleFrequencySort.pdb

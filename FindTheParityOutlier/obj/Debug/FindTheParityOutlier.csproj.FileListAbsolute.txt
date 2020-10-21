@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\FindTheParityOutlier\bin\Debug\FindTheParityOutlier.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\FindTheParityOutlier\bin\Debug\FindTheParityOutlier.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\FindTheParityOutlier\bin\Debug\FindTheParityOutlier.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\FindTheParityOutlier\obj\Debug\FindTheParityOutlier.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\FindTheParityOutlier\obj\Debug\FindTheParityOutlier.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\FindTheParityOutlier\obj\Debug\FindTheParityOutlier.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\FindTheParityOutlier\obj\Debug\FindTheParityOutlier.pdb

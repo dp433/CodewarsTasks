@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\ConsecutiveLetters\bin\Debug\ConsecutiveLetters.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\ConsecutiveLetters\bin\Debug\ConsecutiveLetters.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\ConsecutiveLetters\bin\Debug\ConsecutiveLetters.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\ConsecutiveLetters\obj\Debug\ConsecutiveLetters.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\ConsecutiveLetters\obj\Debug\ConsecutiveLetters.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\ConsecutiveLetters\obj\Debug\ConsecutiveLetters.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\ConsecutiveLetters\obj\Debug\ConsecutiveLetters.csprojAssemblyReference.cache

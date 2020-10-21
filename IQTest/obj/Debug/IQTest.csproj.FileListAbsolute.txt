@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\IQTest\bin\Debug\IQTest.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\IQTest\bin\Debug\IQTest.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\IQTest\bin\Debug\IQTest.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\IQTest\obj\Debug\IQTest.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\IQTest\obj\Debug\IQTest.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\IQTest\obj\Debug\IQTest.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\IQTest\obj\Debug\IQTest.pdb

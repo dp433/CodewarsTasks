@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\CountIPAddresses\bin\Debug\CountIPAddresses.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\CountIPAddresses\bin\Debug\CountIPAddresses.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\CountIPAddresses\bin\Debug\CountIPAddresses.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\CountIPAddresses\obj\Debug\CountIPAddresses.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\CountIPAddresses\obj\Debug\CountIPAddresses.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\CountIPAddresses\obj\Debug\CountIPAddresses.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\CountIPAddresses\obj\Debug\CountIPAddresses.pdb

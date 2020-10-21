@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\IPv6Parsing\bin\Debug\IPv6Parsing.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\IPv6Parsing\bin\Debug\IPv6Parsing.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\IPv6Parsing\bin\Debug\IPv6Parsing.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\IPv6Parsing\obj\Debug\IPv6Parsing.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\IPv6Parsing\obj\Debug\IPv6Parsing.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\IPv6Parsing\obj\Debug\IPv6Parsing.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\IPv6Parsing\obj\Debug\IPv6Parsing.pdb

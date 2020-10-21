@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\Meeting\bin\Debug\Meeting.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\Meeting\bin\Debug\Meeting.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\Meeting\bin\Debug\Meeting.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\Meeting\obj\Debug\Meeting.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\Meeting\obj\Debug\Meeting.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\Meeting\obj\Debug\Meeting.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\Meeting\obj\Debug\Meeting.pdb

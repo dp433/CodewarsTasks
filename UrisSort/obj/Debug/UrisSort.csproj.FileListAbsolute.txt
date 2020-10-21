@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\UrisSort\bin\Debug\UrisSort.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\UrisSort\bin\Debug\UrisSort.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\UrisSort\bin\Debug\UrisSort.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\UrisSort\obj\Debug\UrisSort.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\UrisSort\obj\Debug\UrisSort.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\UrisSort\obj\Debug\UrisSort.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\UrisSort\obj\Debug\UrisSort.pdb

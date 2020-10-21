@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\SumsOfParts\bin\Debug\SumsOfParts.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\SumsOfParts\bin\Debug\SumsOfParts.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\SumsOfParts\bin\Debug\SumsOfParts.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\SumsOfParts\obj\Debug\SumsOfParts.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\SumsOfParts\obj\Debug\SumsOfParts.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\SumsOfParts\obj\Debug\SumsOfParts.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\SumsOfParts\obj\Debug\SumsOfParts.pdb

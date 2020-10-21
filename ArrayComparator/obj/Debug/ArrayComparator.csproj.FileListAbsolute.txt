@@ -1,0 +1,6 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\ArrayComparator\bin\Debug\ArrayComparator.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\ArrayComparator\bin\Debug\ArrayComparator.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\ArrayComparator\bin\Debug\ArrayComparator.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\ArrayComparator\obj\Debug\ArrayComparator.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\ArrayComparator\obj\Debug\ArrayComparator.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\ArrayComparator\obj\Debug\ArrayComparator.pdb

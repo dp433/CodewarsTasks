@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\MultiplesOf3Or5\bin\Debug\MultiplesOf3Or5.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\MultiplesOf3Or5\bin\Debug\MultiplesOf3Or5.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\MultiplesOf3Or5\bin\Debug\MultiplesOf3Or5.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\MultiplesOf3Or5\obj\Debug\MultiplesOf3Or5.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\MultiplesOf3Or5\obj\Debug\MultiplesOf3Or5.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\MultiplesOf3Or5\obj\Debug\MultiplesOf3Or5.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\MultiplesOf3Or5\obj\Debug\MultiplesOf3Or5.pdb

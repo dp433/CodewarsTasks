@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\Order\bin\Debug\Order.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\Order\bin\Debug\Order.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\Order\bin\Debug\Order.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\Order\obj\Debug\Order.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\Order\obj\Debug\Order.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\Order\obj\Debug\Order.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\Order\obj\Debug\Order.csprojAssemblyReference.cache

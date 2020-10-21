@@ -1,0 +1,6 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\LargestSum\obj\Debug\LargestSum.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\LargestSum\bin\Debug\LargestSum.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\LargestSum\bin\Debug\LargestSum.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\LargestSum\bin\Debug\LargestSum.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\LargestSum\obj\Debug\LargestSum.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\LargestSum\obj\Debug\LargestSum.pdb

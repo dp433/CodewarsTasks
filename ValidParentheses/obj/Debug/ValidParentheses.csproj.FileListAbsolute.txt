@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\ValidParentheses\bin\Debug\ValidParentheses.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\ValidParentheses\bin\Debug\ValidParentheses.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\ValidParentheses\bin\Debug\ValidParentheses.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\ValidParentheses\obj\Debug\ValidParentheses.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\ValidParentheses\obj\Debug\ValidParentheses.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\ValidParentheses\obj\Debug\ValidParentheses.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\ValidParentheses\obj\Debug\ValidParentheses.pdb

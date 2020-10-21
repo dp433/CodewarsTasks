@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\RejectIntArray\bin\Debug\RejectIntArray.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\RejectIntArray\bin\Debug\RejectIntArray.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\RejectIntArray\bin\Debug\RejectIntArray.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\RejectIntArray\obj\Debug\RejectIntArray.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\RejectIntArray\obj\Debug\RejectIntArray.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\RejectIntArray\obj\Debug\RejectIntArray.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\RejectIntArray\obj\Debug\RejectIntArray.pdb

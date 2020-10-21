@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\MatrixAddition\obj\Debug\MatrixAddition.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\MatrixAddition\obj\Debug\MatrixAddition.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\MatrixAddition\bin\Debug\MatrixAddition.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\MatrixAddition\bin\Debug\MatrixAddition.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\MatrixAddition\bin\Debug\MatrixAddition.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\MatrixAddition\obj\Debug\MatrixAddition.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\MatrixAddition\obj\Debug\MatrixAddition.pdb

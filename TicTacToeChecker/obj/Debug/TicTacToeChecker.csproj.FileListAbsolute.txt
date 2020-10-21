@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\TicTacToeChecker\bin\Debug\TicTacToeChecker.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\TicTacToeChecker\bin\Debug\TicTacToeChecker.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\TicTacToeChecker\bin\Debug\TicTacToeChecker.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\TicTacToeChecker\obj\Debug\TicTacToeChecker.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\TicTacToeChecker\obj\Debug\TicTacToeChecker.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\TicTacToeChecker\obj\Debug\TicTacToeChecker.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\TicTacToeChecker\obj\Debug\TicTacToeChecker.pdb

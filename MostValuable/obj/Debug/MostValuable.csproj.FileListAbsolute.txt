@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\MostValuable\obj\Debug\MostValuable.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\MostValuable\obj\Debug\MostValuable.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\MostValuable\bin\Debug\MostValuable.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\MostValuable\bin\Debug\MostValuable.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\MostValuable\bin\Debug\MostValuable.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\MostValuable\obj\Debug\MostValuable.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\MostValuable\obj\Debug\MostValuable.pdb

@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\Base64Encoding\bin\Debug\Base64Encoding.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\Base64Encoding\bin\Debug\Base64Encoding.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\Base64Encoding\bin\Debug\Base64Encoding.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\Base64Encoding\obj\Debug\Base64Encoding.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\Base64Encoding\obj\Debug\Base64Encoding.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\Base64Encoding\obj\Debug\Base64Encoding.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\Base64Encoding\obj\Debug\Base64Encoding.pdb

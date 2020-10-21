@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\NextMultipleOfFive\bin\Debug\NextMultipleOfFive.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\NextMultipleOfFive\bin\Debug\NextMultipleOfFive.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\NextMultipleOfFive\bin\Debug\NextMultipleOfFive.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\NextMultipleOfFive\obj\Debug\NextMultipleOfFive.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\NextMultipleOfFive\obj\Debug\NextMultipleOfFive.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\NextMultipleOfFive\obj\Debug\NextMultipleOfFive.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\NextMultipleOfFive\obj\Debug\NextMultipleOfFive.pdb

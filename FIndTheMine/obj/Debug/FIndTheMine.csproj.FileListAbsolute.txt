@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\FIndTheMine\bin\Debug\FIndTheMine.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\FIndTheMine\bin\Debug\FIndTheMine.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\FIndTheMine\bin\Debug\FIndTheMine.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\FIndTheMine\obj\Debug\FIndTheMine.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\FIndTheMine\obj\Debug\FIndTheMine.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\FIndTheMine\obj\Debug\FIndTheMine.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\FIndTheMine\obj\Debug\FIndTheMine.pdb

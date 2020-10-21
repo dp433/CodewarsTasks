@@ -1,0 +1,15 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\SumOfPositive\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Dmitry\source\repos\CodewarsTasks\SumOfPositive\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\SumOfPositive\bin\Debug\nunit.engine.dll
+C:\Users\Dmitry\source\repos\CodewarsTasks\SumOfPositive\bin\Debug\nunit.engine.api.dll
+C:\Users\Dmitry\source\repos\CodewarsTasks\SumOfPositive\bin\Debug\SumOfPositive.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\SumOfPositive\bin\Debug\SumOfPositive.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\SumOfPositive\bin\Debug\SumOfPositive.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\SumOfPositive\bin\Debug\nunit.framework.dll
+C:\Users\Dmitry\source\repos\CodewarsTasks\SumOfPositive\bin\Debug\nunit.framework.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\SumOfPositive\bin\Debug\nunit.framework.xml
+C:\Users\Dmitry\source\repos\CodewarsTasks\SumOfPositive\obj\Debug\SumOfPositive.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\SumOfPositive\obj\Debug\SumOfPositive.csproj.CopyComplete
+C:\Users\Dmitry\source\repos\CodewarsTasks\SumOfPositive\obj\Debug\SumOfPositive.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\SumOfPositive\obj\Debug\SumOfPositive.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\SumOfPositive\obj\Debug\SumOfPositive.csprojAssemblyReference.cache

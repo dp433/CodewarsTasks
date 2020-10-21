@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\MergedStringChecker\bin\Debug\MergedStringChecker.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\MergedStringChecker\bin\Debug\MergedStringChecker.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\MergedStringChecker\bin\Debug\MergedStringChecker.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\MergedStringChecker\obj\Debug\MergedStringChecker.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\MergedStringChecker\obj\Debug\MergedStringChecker.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\MergedStringChecker\obj\Debug\MergedStringChecker.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\MergedStringChecker\obj\Debug\MergedStringChecker.pdb

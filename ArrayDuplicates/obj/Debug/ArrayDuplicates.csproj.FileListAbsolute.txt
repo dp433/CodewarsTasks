@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\ArrayDuplicates\bin\Debug\ArrayDuplicates.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\ArrayDuplicates\bin\Debug\ArrayDuplicates.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\ArrayDuplicates\bin\Debug\ArrayDuplicates.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\ArrayDuplicates\obj\Debug\ArrayDuplicates.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\ArrayDuplicates\obj\Debug\ArrayDuplicates.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\ArrayDuplicates\obj\Debug\ArrayDuplicates.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\ArrayDuplicates\obj\Debug\ArrayDuplicates.pdb

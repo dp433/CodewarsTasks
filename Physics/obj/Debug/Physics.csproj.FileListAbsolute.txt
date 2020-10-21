@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\Physics\bin\Debug\Physics.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\Physics\bin\Debug\Physics.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\Physics\bin\Debug\Physics.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\Physics\obj\Debug\Physics.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\Physics\obj\Debug\Physics.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\Physics\obj\Debug\Physics.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\Physics\obj\Debug\Physics.pdb

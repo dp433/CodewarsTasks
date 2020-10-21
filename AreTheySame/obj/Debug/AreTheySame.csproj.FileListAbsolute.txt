@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\AreTheySame\bin\Debug\AreTheySame.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\AreTheySame\bin\Debug\AreTheySame.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\AreTheySame\bin\Debug\AreTheySame.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\AreTheySame\obj\Debug\AreTheySame.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\AreTheySame\obj\Debug\AreTheySame.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\AreTheySame\obj\Debug\AreTheySame.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\AreTheySame\obj\Debug\AreTheySame.pdb

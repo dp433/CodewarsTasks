@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\SortTheOdd\bin\Debug\SortTheOdd.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\SortTheOdd\bin\Debug\SortTheOdd.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\SortTheOdd\bin\Debug\SortTheOdd.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\SortTheOdd\obj\Debug\SortTheOdd.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\SortTheOdd\obj\Debug\SortTheOdd.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\SortTheOdd\obj\Debug\SortTheOdd.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\SortTheOdd\obj\Debug\SortTheOdd.pdb

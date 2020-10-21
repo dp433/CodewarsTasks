@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\MexicanWave\bin\Debug\MexicanWave.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\MexicanWave\bin\Debug\MexicanWave.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\MexicanWave\bin\Debug\MexicanWave.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\MexicanWave\obj\Debug\MexicanWave.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\MexicanWave\obj\Debug\MexicanWave.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\MexicanWave\obj\Debug\MexicanWave.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\MexicanWave\obj\Debug\MexicanWave.pdb

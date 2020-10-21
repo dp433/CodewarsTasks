@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\SubArraySum\bin\Debug\SubArraySum.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\SubArraySum\bin\Debug\SubArraySum.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\SubArraySum\bin\Debug\SubArraySum.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\SubArraySum\obj\Debug\SubArraySum.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\SubArraySum\obj\Debug\SubArraySum.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\SubArraySum\obj\Debug\SubArraySum.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\SubArraySum\obj\Debug\SubArraySum.pdb

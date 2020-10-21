@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\SumConsecutives\bin\Debug\SumConsecutives.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\SumConsecutives\bin\Debug\SumConsecutives.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\SumConsecutives\bin\Debug\SumConsecutives.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\SumConsecutives\obj\Debug\SumConsecutives.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\SumConsecutives\obj\Debug\SumConsecutives.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\SumConsecutives\obj\Debug\SumConsecutives.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\SumConsecutives\obj\Debug\SumConsecutives.pdb

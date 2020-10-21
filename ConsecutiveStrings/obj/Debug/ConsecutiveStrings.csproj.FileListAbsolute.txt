@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\ConsecutiveStrings\bin\Debug\ConsecutiveStrings.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\ConsecutiveStrings\bin\Debug\ConsecutiveStrings.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\ConsecutiveStrings\bin\Debug\ConsecutiveStrings.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\ConsecutiveStrings\obj\Debug\ConsecutiveStrings.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\ConsecutiveStrings\obj\Debug\ConsecutiveStrings.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\ConsecutiveStrings\obj\Debug\ConsecutiveStrings.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\ConsecutiveStrings\obj\Debug\ConsecutiveStrings.pdb

@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\SumStringsAsNumbers\bin\Debug\SumStringsAsNumbers.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\SumStringsAsNumbers\bin\Debug\SumStringsAsNumbers.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\SumStringsAsNumbers\bin\Debug\SumStringsAsNumbers.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\SumStringsAsNumbers\obj\Debug\SumStringsAsNumbers.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\SumStringsAsNumbers\obj\Debug\SumStringsAsNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\SumStringsAsNumbers\obj\Debug\SumStringsAsNumbers.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\SumStringsAsNumbers\obj\Debug\SumStringsAsNumbers.pdb

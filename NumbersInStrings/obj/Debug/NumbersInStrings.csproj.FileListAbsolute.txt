@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\NumbersInStrings\bin\Debug\NumbersInStrings.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\NumbersInStrings\bin\Debug\NumbersInStrings.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\NumbersInStrings\bin\Debug\NumbersInStrings.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\NumbersInStrings\obj\Debug\NumbersInStrings.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\NumbersInStrings\obj\Debug\NumbersInStrings.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\NumbersInStrings\obj\Debug\NumbersInStrings.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\NumbersInStrings\obj\Debug\NumbersInStrings.pdb

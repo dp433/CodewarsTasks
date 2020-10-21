@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\CodewarsTasks\CompleteSeries\bin\Debug\CompleteSeries.exe.config
+C:\Users\Dmitry\source\repos\CodewarsTasks\CompleteSeries\bin\Debug\CompleteSeries.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\CompleteSeries\bin\Debug\CompleteSeries.pdb
+C:\Users\Dmitry\source\repos\CodewarsTasks\CompleteSeries\obj\Debug\CompleteSeries.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\CompleteSeries\obj\Debug\CompleteSeries.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\CodewarsTasks\CompleteSeries\obj\Debug\CompleteSeries.exe
+C:\Users\Dmitry\source\repos\CodewarsTasks\CompleteSeries\obj\Debug\CompleteSeries.pdb
